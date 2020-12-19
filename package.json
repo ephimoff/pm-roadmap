@@ -1,0 +1,23 @@
+{
+  "name": "pm-roadmap",
+  "version": "1.0.0",
+  "description": "Product Manager roadmap",
+  "main": "index.js",
+  "authors": {
+    "name": "Anton Efimov",
+    "email": "a.ephimoff@gmail.com"
+  },
+  "repository": "git@github.com:ephimoff/pm-roadmap.git/pm-roadmap",
+  "scripts": {
+    "dev": "vuepress dev pmroadmap",
+    "build": "vuepress build pmroadmap"
+  },
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "vuepress": "^1.5.3"
+  },
+  "resolutions": {
+    "watchpack": "1.6.1"
+  }
+}
