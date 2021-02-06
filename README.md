@@ -4,7 +4,4 @@ Skills, competencies, knowledge - everything that one can use to move themselves
 
 ## TODO
 
-- [x] Write a Introduction
-- [ ] Write a contribution guid
-- [ ] Add a Telegram chat link
-- [ ] Move to a proper domain
+The list of all TODO items can be found in the [Issues](https://github.com/ephimoff/pm-roadmap/issues) section
