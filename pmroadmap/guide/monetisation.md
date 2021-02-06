@@ -17,7 +17,7 @@
 - 1st session optimisation
 - User activation
 
-## 1st and 2nd purchase convertation
+## 1st and 2nd purchase conversion
 
 - B2C
 - B2B

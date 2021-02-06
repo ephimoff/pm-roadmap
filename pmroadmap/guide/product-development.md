@@ -12,7 +12,7 @@
 ## CustDev
 
 - User interviews
-- Feedback loops building, product quality assesment
+- Feedback loops building, product quality assessment
 
 ## Tasks prio
 
@@ -23,7 +23,7 @@
 ## UI/UX
 
 - Fast prototyping
-- User empathy, behaviour modeling, use cases
+- User empathy, behaviour modelling, use cases
 - Sense of style
 
 ## Fast hypothesis checking technique

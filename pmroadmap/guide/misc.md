@@ -4,7 +4,7 @@
 
 ## Hiring
 
-## Traffic purchasing, marketing netwroks
+## Traffic purchasing, marketing networks
 
 ## ASO and store optimisation
 

@@ -41,12 +41,8 @@ module.exports = {
         link: '/guide/'
       },
       {
-        text: 'Config',
+        text: 'Temp(might be deleted later)',
         link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
       }
     ],
     sidebar: {
@@ -60,7 +56,8 @@ module.exports = {
             'product-development',
             'monetisation',
             'processes',
-            'misc'
+            'misc',
+            'future-reading'
           ]
         }
       ]
