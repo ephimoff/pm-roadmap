@@ -15,5 +15,5 @@ features:
   - title: Trusting the guide and contribution
     details: |
       This is a collective knowledge. A lot of experience PMs participated in the consolidating their knowledge and expertise. Moreover, anyone can contribute and we encourage you to do so!
-footer: Made by AE with 💻
+footer: By AE & Community
 ---
