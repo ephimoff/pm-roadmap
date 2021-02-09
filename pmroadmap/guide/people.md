@@ -1,4 +1,9 @@
-# Processes
+# People
+
+## CustDev
+
+- User interviews
+- Feedback loops building, product quality assessment
 
 ## Comms with stakeholders
 
@@ -11,3 +16,5 @@
 ## Team work planning and timeframes assessment
 
 ## Work with partners
+
+## Hiring

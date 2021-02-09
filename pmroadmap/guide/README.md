@@ -1,5 +1,14 @@
 # Introduction
 
+Product Manager work on a cross-section of many disciplines. Hence they need to posses various skills and competencies from all these areas. We decided to split these competencies into 4 main categories:
+
+- [Product](TODO:add-a-link)
+- [People](TODO:add-a-link)
+- [Money and Marketing](TODO:add-a-link)
+- [Tech](TODO:add-a-link)
+
+The job of a Product Manager as much more complicated than that but these 4 categories should give us some structure and help us to allocate the knowledge more or less evenly.
+
 1. Depending on the company a PM needs to develop different skills and perform different actions
 
 1. We don't think that all PMs need to know all of these things by heart. You have to navigate through these guide and pick the areas that are most relevant to what you do, or planning to do

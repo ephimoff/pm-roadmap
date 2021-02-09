@@ -2,14 +2,16 @@
 sidebar: auto
 ---
 
-# Config
+# Future reading
 
-## foo
+## Articles and blog posts
 
 - Type: `string`
 - Default: `/`
 
-## bar
+## Books
+
+## People to follow
 
 - Type: `string`
 - Default: `/`
