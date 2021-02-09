@@ -8,4 +8,4 @@
 
 1. Use this roadmap not only on yourself but see if you can help other PMs in your company. Hence you will share a common lingo and will define more granularly the area of responsibility of each other
 
-1. This is work in progress. We all will be very happy if you find some time to participate in the project. If you are ready to help and happy to share your experience, check out this [Quick start](/contribution.html) page. Also feel free to add Issue into the repo itself or submit your PRs. We are waiting for any feedback in our [Telegram channel](TODO:add-a-link)
+1. This is work in progress. We all will be very happy if you find some time to participate in the project. If you are ready to help and happy to share your experience, check out this [Quick start](/guide/contribution.html#how-you-can-participate-in-the-roadmap) page. Also feel free to add Issue into the repo itself or submit your PRs. We are waiting for any feedback in our [Telegram channel](TODO:add-a-link)
