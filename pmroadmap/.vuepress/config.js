@@ -41,8 +41,8 @@ module.exports = {
         link: '/guide/'
       },
       {
-        text: 'Temp(might be deleted later)',
-        link: '/config/'
+        text: 'Future reading',
+        link: '/links/'
       }
     ],
     sidebar: {
@@ -50,15 +50,7 @@ module.exports = {
         {
           title: 'Guide',
           collapsable: false,
-          children: [
-            '',
-            'contribution',
-            'product-development',
-            'monetisation',
-            'processes',
-            'misc',
-            'future-reading'
-          ]
+          children: ['', 'contribution', 'product', 'people', 'money', 'tech']
         }
       ]
     }

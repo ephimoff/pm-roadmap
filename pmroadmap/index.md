@@ -2,7 +2,7 @@
 home: true
 # heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: |
-  We came up with a structured list of skills and competencies for a Product Manager. This list can be adapted for any team or a company. Try it yourself!
+  We came up with a structured data of skills and competencies for a Product Manager. This data can be adapted for any team or a company. Try it yourself!
 actionText: Dig in →
 actionLink: /guide/
 features:
@@ -15,5 +15,5 @@ features:
   - title: Trusting the guide and contribution
     details: |
       This is a collective knowledge. A lot of experience PMs participated in the consolidating their knowledge and expertise. Moreover, anyone can contribute and we encourage you to do so!
-footer: By AE & Community
+footer: By æ & Community
 ---
