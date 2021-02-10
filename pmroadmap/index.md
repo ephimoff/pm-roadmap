@@ -14,6 +14,6 @@ features:
       Anyone: from people are trying to get into the profession to experience PMs looking for new ways of improving their product
   - title: Trusting the guide and contribution
     details: |
-      This is a collective knowledge. A lot of experience PMs participated in the consolidating their knowledge and expertise. Moreover, anyone can contribute and we encourage you to do so!
-footer: By æ & Community
+      This is a collective knowledge. A lot of experienced PMs participated in the consolidating their knowledge and expertise. Moreover, anyone can contribute and we encourage you to do so!
+footer: By Anton Efimov & Community 💪
 ---
