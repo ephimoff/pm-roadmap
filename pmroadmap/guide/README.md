@@ -1,13 +1,13 @@
 # Introduction
 
-Product Manager work on a cross-section of many disciplines. Hence they need to posses various skills and competencies from all these areas. We decided to split these competencies into 4 main categories:
+Product Managers work on a cross-section of many disciplines. Hence, they need to possess various skills and competencies from various areas. We decided to split these competencies into 4 main categories:
 
-- [Product](TODO:add-a-link)
-- [People](TODO:add-a-link)
-- [Money and Marketing](TODO:add-a-link)
-- [Tech](TODO:add-a-link)
+- [Product](/guide/product.html)
+- [People](/guide/people.html)
+- [Money and Marketing](/guide/money.html)
+- [Tech](/guide/tech.html)
 
-The job of a Product Manager as much more complicated than that but these 4 categories should give us some structure and help us to allocate the knowledge more or less evenly.
+The job of a Product Manager is much more complicated than the mentioned above 4 categories, but they should give us some structure and help us to allocate the knowledge more or less evenly.
 
 1. Depending on the company a PM needs to develop different skills and perform different actions
 
@@ -17,4 +17,4 @@ The job of a Product Manager as much more complicated than that but these 4 cate
 
 1. Use this roadmap not only on yourself but see if you can help other PMs in your company. Hence you will share a common lingo and will define more granularly the area of responsibility of each other
 
-1. This is work in progress. We all will be very happy if you find some time to participate in the project. If you are ready to help and happy to share your experience, check out this [Quick start](/guide/contribution.html#how-you-can-participate-in-the-roadmap) page. Also feel free to add Issue into the repo itself or submit your PRs. We are waiting for any feedback in our [Telegram channel](TODO:add-a-link)
+1. This is work in progress. We all will be very happy if you find some time to participate in the project. If you are ready to help and happy to share your experience, check out this [Quick start](/guide/contribution.html#how-you-can-participate-in-the-roadmap) page. Also, feel free to add Issue into the repo itself or submit your PRs. We are waiting for any feedback in our [Telegram channel](TODO:add-a-link)
