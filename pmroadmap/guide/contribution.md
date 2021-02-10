@@ -13,9 +13,9 @@ You can also start working on a description for one of the competencies. To avoi
 
 1. Find that ticket in the [`knowledge-base` labels](https://github.com/ephimoff/pm-roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Aknowledge-base) list and assign it to yourself and move it to 'In progress'
 
-1. Read [Accepting the changes](/guide/contribution.html#adding-or-updating-data)
+1. Finish your contribution by sending us a PR
 
-1. Send us a PR
+1. If everything is OK the change will be [accepted](/guide/contribution.html#adding-or-updating-data) and merged
 
 ### Accepting the changes
 
