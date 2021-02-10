@@ -47,4 +47,4 @@ The idea of this guide is to be a free and open-source source of information. An
 
 ### "I want to help but not really technical"
 
-If you want to help but don't know git and don't really want to learn it, that's fine too. Just send a message in our [Telegram](TODO:add-a-link) chat with the details of your contribution and we will take it from there. However, please consider learning Git, this is one of the key [Technical skills](/guide/tech.html#technical-skills) and will help to understand better how your dev teams work wit heir code.
+If you want to help but don't know git and don't really want to learn it, that's fine too. Just send a message in our [Telegram](https://t.me/pmroadmap) chat with the details of your contribution and we will take it from there. However, please consider learning Git, this is one of the key [Technical skills](/guide/tech.html#technical-skills) and will help to understand better how your dev teams work wit heir code.

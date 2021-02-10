@@ -43,6 +43,10 @@ module.exports = {
       {
         text: 'Future reading',
         link: '/links/'
+      },
+      {
+        text: 'Telegram',
+        link: 'https://t.me/pmroadmap'
       }
     ],
     sidebar: {
