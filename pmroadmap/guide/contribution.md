@@ -6,7 +6,7 @@
 - [🔧 Send a PR](https://github.com/ephimoff/pm-roadmap/pulls) with the correction of the actual mistakes
 - [📚 Update the knowledge base](/guide/contribution.html#adding-or-updating-data) with additional sections/areas for a PM
 
-If you don't how exactly to help you can have a look at our [list of issues](https://github.com/ephimoff/pm-roadmap/issues).
+If you don't know how exactly to help you can have a look at our [list of issues](https://github.com/ephimoff/pm-roadmap/issues).
 You can also start working on a description for one of the competencies. To avoid any duplication of the work use this checklist:
 
 1. Check on the board that this task is not 'In progress'
@@ -47,4 +47,4 @@ The idea of this guide is to be a free and open-source source of information. An
 
 ### "I want to help but not really technical"
 
-If you want to help but don't know git and don't really want to learn it, that's fine too. Just send a message in our [Telegram](https://t.me/pmroadmap) chat with the details of your contribution and we will take it from there. However, please consider learning Git, this is one of the key [Technical skills](/guide/tech.html#technical-skills) and will help to understand better how your dev teams work wit heir code.
+If you want to help but don't know git and don't really want to learn it, that's fine too. Just send a message in our [Telegram](https://t.me/pmroadmap) chat with the details of your contribution and we will take it from there. However, please consider learning Git, this is one of the key [Technical skills](/guide/tech.html#technical-skills) and will help to understand better how your dev teams work wit their code.
