@@ -15,5 +15,5 @@ features:
   - title: Trusting the guide and contribution
     details: |
       This is a collective knowledge. A lot of experienced PMs participated in the consolidating their knowledge and expertise. Moreover, anyone can contribute and we encourage you to do so!
-footer: By Anton Efimov & Community 💪
+footer: By Anton Efimov, Antonio Elena & Community 💪
 ---
