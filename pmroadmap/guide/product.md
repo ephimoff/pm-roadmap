@@ -4,6 +4,24 @@ Product starts from the **Vision**. The Product Vision is a _representation of w
 
 Depending on which level of hierarchy you work you get to work on one or more of these aspects. For example, if you are a CPO, there is a big chance that you will start with the Vision. Junior PMs will most likely work on executing and enriching their company or department's Product Strategy
 
+## Product Vision
+
+The product vision is the overarching goal you are aiming for, the reason for creating the product. It provides a continued purpose in an ever-changing world, acts as the product's true north, provides motivation when the going gets tough, and facilitates effective collaboration.
+
+### How to create a Product Vision
+
+One of the ways to start a new Product Vision is to use a Product Vision canvas and populate it with the data:
+
+#### Product vision for X
+
+- What's your motivation for creating the product?
+- Which positive change should it bring about?
+  | Target group | Needs | Product | Business goals |
+  | ------------------------------------------------------------ | ------------------------------------- | -------------------------------------- | ------------------------------------------------ |
+  | Which market or the market segment does the product address? | What problems does the product solve? | What product is it? | How is the product going to benefit the company? |
+  | Who are the target customers and users? | Which benefit does it provide? | What makes it stand out? | What are the business goals? |
+  | | | Is it feasible to develop the product? | |
+
 ## Product strategy
 
 ## Product specification
