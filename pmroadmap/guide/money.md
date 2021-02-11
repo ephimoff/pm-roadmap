@@ -6,7 +6,7 @@
 - Product positioning, the vision for the product, storytelling
 - Competitors analysis
 - Figuring out if the product didn't fly; pivot and shutting it down
-- Go To Market strategy
+- Go-To-Market strategy
 - Roadmap creation, product development strategy, updating it
 
 ## Product economics
