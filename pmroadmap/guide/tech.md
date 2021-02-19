@@ -30,4 +30,12 @@ A few reasons:
 
 ### Databases
 
+#### SQL
+
+#### NoSQL
+
 ### Analytics tools
+
+#### Google Analytics
+
+#### Tableau
